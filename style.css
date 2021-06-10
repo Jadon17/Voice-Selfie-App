@@ -1,0 +1,29 @@
+#start
+{
+    width: 20%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:2px solid grey;
+}
+#logo_image
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#speech_box
+{
+    width: 300px;
+}
+body {
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    background-color: peachpuff;
+}
+hr {
+    
+    border: 2px dotted black;
+}
